@@ -17,24 +17,13 @@ class About extends Component {
           non-profit sectory, I decided to take a leap of faith to pursue a
           career in software engineering.
         </p>
+        <p>And it was the best decision I've ever made!</p>
         <p>
-          with over 3 years of experience in operations, administration and
-          project management in the nonprofit sector - specifically, with a
-          strong focus on creating equitable access to abortion in the U.S. I’ve
-          had a great privilege and honor to work with organizations and
-          projects that have had tremendous meaning to me in the past, but I did
-          not feel content with my contributions through my previous roles. I
-          felt limited in my capacity through administrative and operational
-          work, and wanted to find a path that would allow me to see more
-          tangible results of my labor. During my previous role, I had the
-          chance to work with a team of developers to create a data
-          visualization map of the current(and potential future) state of access
-          to abortion across the U.S. That was my first insight into what
-          developers do, and my interest was peaked. From there I began
-          exploring coding classes online and began on my path to become a full
-          stack engineer. With newly minted technical skills in the PERN stack
-          and a strong background working in the non-profit sector, I hope to
-          bring my experience to an inclusive organization in tech.
+          After completing <b>553 hours</b> of coursework at the Grace Hopper
+          Program(a web development 17 week immersive program), I'm a javascript
+          developer versed in the PERN stack. My passion for coding is
+          unmatched, and I'm committed to this lifelong journey of building and
+          learning.
         </p>
       </div>
     );

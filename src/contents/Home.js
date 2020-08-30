@@ -1,7 +1,6 @@
 import React, { Component } from "react";
 import ReactTypingEffect from "react-typing-effect";
 import profilepic from "../img/profpic.png";
-import Social from "../components/Social";
 
 class Home extends Component {
   render() {
@@ -25,7 +24,6 @@ class Home extends Component {
           speed={80}
           eraseDelay={900}
         />
-        <Social />
       </div>
     );
   }

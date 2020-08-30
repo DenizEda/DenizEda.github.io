@@ -4,12 +4,9 @@ class TechStack extends Component {
   render() {
     return (
       <div className="condiv">
-        <h1 className="subtopic">My Education</h1>
+        <h1 className="subtopic">Tech Stack</h1>
 
         <div id="skillsDiv">
-          <div id="techTitle" data-aos="fade-up">
-            <h3>Technologies I've Worked With</h3>
-          </div>
           <div id="skillsMain">
             <div class="techDiv" id="frontend" data-aos="fade-up">
               <div class="techDivTitle">Frontend</div>

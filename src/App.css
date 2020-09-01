@@ -68,6 +68,7 @@ ul {
   list-style: none;
   text-align: right;
   padding-right: 20px;
+  text-decoration: none;
 }
 li:first-child {
   float: left;
@@ -77,9 +78,11 @@ li:first-child {
 li {
   display: inline-block;
   padding-right: 10px;
+  text-decoration: none;
 }
 a:link {
   text-decoration: none;
+  color: #55056e;
 }
 
 a:hover {

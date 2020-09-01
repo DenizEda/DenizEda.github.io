@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.afbf6ed4.chunk.css",
+    "main.js": "/static/js/main.73496fcb.chunk.js",
+    "main.js.map": "/static/js/main.73496fcb.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a77d6087.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a77d6087.js.map",
+    "static/js/2.bc6b92f4.chunk.js": "/static/js/2.bc6b92f4.chunk.js",
+    "static/js/2.bc6b92f4.chunk.js.map": "/static/js/2.bc6b92f4.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.c24c1442aac7ad67bb9ab4d078e31540.js": "/precache-manifest.c24c1442aac7ad67bb9ab4d078e31540.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.afbf6ed4.chunk.css.map": "/static/css/main.afbf6ed4.chunk.css.map",
+    "static/js/2.bc6b92f4.chunk.js.LICENSE.txt": "/static/js/2.bc6b92f4.chunk.js.LICENSE.txt",
+    "static/media/bootstraplogo.png": "/static/media/bootstraplogo.e372779e.png",
+    "static/media/chai.png": "/static/media/chai.f6108efd.png",
+    "static/media/jasmine.png": "/static/media/jasmine.8316e471.png",
+    "static/media/mindpop.png": "/static/media/mindpop.1980bf31.png",
+    "static/media/nodelogo.png": "/static/media/nodelogo.d42672d4.png",
+    "static/media/oauth.png": "/static/media/oauth.626e00da.png",
+    "static/media/pandemicessentials.png": "/static/media/pandemicessentials.d3704b5f.png",
+    "static/media/postico.png": "/static/media/postico.08b791da.png",
+    "static/media/profpic.png": "/static/media/profpic.bb71d7d2.png",
+    "static/media/sequelize.png": "/static/media/sequelize.fbaa87b8.png",
+    "static/media/socket-io-logo.png": "/static/media/socket-io-logo.a06840ba.png",
+    "static/media/webpack.png": "/static/media/webpack.7cd7253e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a77d6087.js",
+    "static/js/2.bc6b92f4.chunk.js",
+    "static/css/main.afbf6ed4.chunk.css",
+    "static/js/main.73496fcb.chunk.js"
+  ]
+}

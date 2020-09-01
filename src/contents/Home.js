@@ -5,7 +5,7 @@ import profilepic from "../img/profpic.png";
 class Home extends Component {
   render() {
     return (
-      <div className="condiv home">
+      <div className="condiv home" id="home">
         <img src={profilepic} className="profilepic" alt=""></img>
         <ReactTypingEffect
           className="typingeffect"
@@ -24,6 +24,8 @@ class Home extends Component {
           speed={80}
           eraseDelay={900}
         />
+        <br />
+        <hr id="divider" />
       </div>
     );
   }

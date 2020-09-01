@@ -3,7 +3,7 @@ import React, { Component } from "react";
 class TechStack extends Component {
   render() {
     return (
-      <div className="condiv">
+      <div className="condiv" id="techstack">
         <h1 className="subtopic">Tech Stack</h1>
 
         <div id="skillsDiv">
@@ -146,6 +146,7 @@ class TechStack extends Component {
             </div>
           </div>
         </div>
+        <hr id="divider" />
       </div>
     );
   }

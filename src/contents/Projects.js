@@ -38,7 +38,7 @@ const Project = (props) => {
 class Projects extends Component {
   render() {
     return (
-      <div className="condiv">
+      <div className="condiv" id="projects">
         <h1 className="subtopic">Projects</h1>
         {/* <div id="projects" className="projectsSection"> */}
         <div>

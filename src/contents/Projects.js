@@ -47,16 +47,16 @@ class Projects extends Component {
               projectname="MindPop"
               mockup={require("../img/mindpop.png")}
               excerpt="An interactive web application for educators to host pop quizzes for students in remote environments. Mindpop makes data on grades and levels of engagement accessible for educators through data visualization."
-              siteUrl="mymindpop.herokuapp.com"
+              siteUrl="http://mymindpop.herokuapp.com"
               githubUrl="https://github.com/TeamPopQuiz/PopRepo"
               techStack="Node.js | Express | Sequelize | React | Redux | Socket | Victory | CSS"
             />
             <hr className="projectHR" />
             <Project
-              projectname="Saucesome"
+              projectname="Pandemic Essentials"
               mockup={require("../img/pandemicessentials.png")}
-              excerpt="A mock e-commerce site that sells a carefully curated selection of gourmet hot sauces from small-match makers around the world. Saucesome also integrates the Mapbox API to show the shoppers where their desired hot sauce is made."
-              siteUrl="pandemic-essentials.herokuapp.com/"
+              excerpt="A mock e-commerce site that sells essential items for consumers during a pandemic.  Signup is integrated with Oauth and Google OAuth.  Styling is built with Bootstrap."
+              siteUrl="http://pandemic-essentials.herokuapp.com/"
               githubUrl="https://github.com/2004-GraceShopperProject-NY/GraceShopper"
               techStack="Node.js | Express | Sequelize | PostgreSQL | React | Redux | Bootstrap | Heroku"
             />

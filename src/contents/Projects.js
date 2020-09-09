@@ -9,7 +9,9 @@ const Project = (props) => {
         </div>
         <div>
           <p className="excerpt">{props.excerpt}</p>
-          <p className="excerpt">Tech stack: {props.techStack}</p>
+          {props.techStack ? (
+            <p className="excerpt">Tech stack: {props.techStack}</p>
+          ) : null}
         </div>
       </div>
       <div className="mockupAndLinks">
@@ -23,9 +25,11 @@ const Project = (props) => {
           />
         </div>
         <div className="linksContainer">
-          <a href={props.siteUrl} target="">
-            Visit
-          </a>
+          {props.siteUrl ? (
+            <a href={props.siteUrl} target="">
+              Visit
+            </a>
+          ) : null}
           <a href={props.githubUrl} target="">
             GitHub
           </a>
@@ -39,7 +43,7 @@ class Projects extends Component {
   render() {
     return (
       <div className="condiv" id="projects">
-        <h1 className="subtopic">Projects</h1>
+        <h2 className="subtopic">PROJECTS</h2>
         {/* <div id="projects" className="projectsSection"> */}
         <div>
           <div className="projectsContainer">
@@ -59,6 +63,14 @@ class Projects extends Component {
               siteUrl="http://pandemic-essentials.herokuapp.com/"
               githubUrl="https://github.com/2004-GraceShopperProject-NY/GraceShopper"
               techStack="Node.js | Express | Sequelize | PostgreSQL | React | Redux | Bootstrap | Heroku"
+            />
+            <hr className="projectHR" />
+            <Project
+              projectname="Conway's Game Of Life"
+              mockup={require("../img/gameoflife.gif")}
+              excerpt="Conway's Game of Life built with HTML, CSS & Javascript. Built as a workshop during FSA/GH program."
+              githubUrl="https://github.com/DenizEda/ConwaysGameOfLife"
+              techStack="HTML | CSS | JavaScript"
             />
             <hr className="projectHR" />
           </div>

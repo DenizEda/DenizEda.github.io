@@ -6,19 +6,19 @@ class Navbar extends Component {
       <nav>
         <ul className="right">
           <li>
-            <a href="#home">Eda Deniz</a>
+            <a href="#home">EDA DENIZ</a>
           </li>
           <li>
-            <a href="#about">About</a>
+            <a href="#about">ABOUT</a>
           </li>
           <li>
-            <a href="#techstack">Tech Stack</a>
+            <a href="#techstack">TECHSTACK</a>
           </li>
           <li>
-            <a href="#projects">Projects</a>
+            <a href="#projects">PROJECTS</a>
           </li>
           <li>
-            <a href="#contact">Contact</a>
+            <a href="#contact">CONTACT</a>
           </li>
         </ul>
       </nav>

@@ -4,7 +4,7 @@ class TechStack extends Component {
   render() {
     return (
       <div className="condiv" id="techstack">
-        <h1 className="subtopic">Tech Stack</h1>
+        <h2 className="subtopic">TECHSTACK</h2>
 
         <div id="skillsDiv">
           <div id="skillsMain">
@@ -145,8 +145,9 @@ class TechStack extends Component {
               </div>
             </div>
           </div>
+          <br />
+          <br />
         </div>
-        <hr id="divider" />
       </div>
     );
   }

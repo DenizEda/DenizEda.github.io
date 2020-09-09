@@ -4,8 +4,8 @@ class Contact extends Component {
   render() {
     return (
       <div className="condiv" id="contact">
-        <h1 className="subtopic">Contact Me</h1>
-        <p className="subtopic">
+        <h2 className="subtopic">CONTACT ME</h2>
+        <p>
           Want to connect? Reach out to me and check out what I'm working on via
           the links below!
         </p>
@@ -41,7 +41,6 @@ class Contact extends Component {
             <span class="tooltiptext">Resume</span>
           </div>
         </div>
-        <hr id="divider" />
         <hr id="divider" />
       </div>
     );

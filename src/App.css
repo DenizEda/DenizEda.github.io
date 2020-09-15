@@ -565,3 +565,42 @@ h5 {
 .container {
   padding: 2px 16px;
 }
+
+/* screens bigger than 700 */
+@media only screen and (min-width: 700px) {
+  h2 {
+    font-size: 6.5vw !important;
+  }
+  h1 {
+    font-size: 6.5vw !important;
+  }
+  p {
+    font-size: 20px !important;
+  }
+
+  h3 {
+    font-size: 4.5vw !important;
+  }
+}
+
+/* screens smaller than 500 */
+@media only screen and (max-width: 500px) {
+  h2 {
+    font-size: 10vw !important;
+  }
+  h1 {
+    font-size: 11vw !important;
+  }
+  p {
+    font-size: 2.5vw !important;
+  }
+
+  h3 {
+    font-size: 13vw !important;
+  }
+
+  img {
+    width: 50%;
+    margin: 0px 0px 5px 20vw;
+  }
+}

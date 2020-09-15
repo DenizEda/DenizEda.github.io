@@ -4,7 +4,6 @@ class About extends Component {
   render() {
     return (
       <div className="condiv" id="about">
-        {/* <div id="about"> */}
         <div className="left-half">
           <img src={profilepic} className="profilepic" alt=""></img>
           <h1 className="subtopic">Eda Deniz</h1>
@@ -27,7 +26,7 @@ class About extends Component {
             and learning.
           </p>
         </div>
-        {/* </div> */}
+
         <hr id="divider" />
       </div>
     );

@@ -613,9 +613,6 @@ h5 {
 }
 
 @media only screen and (max-width: 768px) {
-  * {
-    overflow: hidden;
-  }
   #about {
     display: flex;
     flex-direction: column;
@@ -693,6 +690,7 @@ h5 {
     padding-left: 20px;
     padding-right: 20px;
     z-index: 1;
+    overflow: hidden;
   }
   .logo {
     margin-right: auto;

@@ -92,7 +92,7 @@ nav {
 .burger div {
   width: 25px;
   height: 3px;
-  background-color: rgb(226, 226, 226);
+  background-color: #333333;
   margin: 5px;
   transition: all 0.3s ease;
 }
@@ -688,6 +688,7 @@ h5 {
   nav {
     padding-left: 20px;
     padding-right: 20px;
+    z-index: 1;
   }
   .logo {
     margin-right: auto;
@@ -701,10 +702,12 @@ h5 {
     display: flex;
     flex-direction: column;
     align-items: center;
-    width: 50%;
-
+    width: 65%;
+    padding-bottom: 10vh;
+    opacity: inherit;
     transform: translateX(100%);
     transition: transform 0.5s ease-in;
+    z-index: 1;
   }
   .nav-links li {
     opacity: 0;

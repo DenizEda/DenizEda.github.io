@@ -5,20 +5,20 @@ class About extends Component {
     return (
       <div className="condiv" id="about">
         <div className="left-half">
-          <img src={profilepic} className="profilepic" alt=""></img>
+          <img src={profilepic} alt=""></img>
           <h1 className="subtopic">Eda Deniz</h1>
           <p>Pronouns: She/Her/Hers</p>
         </div>
         <div id="right-half">
           <h2>ABOUT</h2>
-          <p id="right-half">
+          <p>
             I'm a full stack web developer and software engineer based out of
             New York City. After working multiple years in operations -
             primarily in the non-profit sectory - I decided to take a leap of
             faith to pursue a career in software engineering.
           </p>
           <p>And it was the best decision I've ever made!</p>
-          <p id="right-half">
+          <p>
             After completing <b>553 hours</b> of coursework at the Grace Hopper
             Program(a web development 17 week immersive program), I'm a
             javascript developer versed in the PERN stack. My passion for coding

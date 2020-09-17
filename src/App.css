@@ -613,6 +613,9 @@ h5 {
 }
 
 @media only screen and (max-width: 768px) {
+  * {
+    overflow: hidden;
+  }
   #about {
     display: flex;
     flex-direction: column;

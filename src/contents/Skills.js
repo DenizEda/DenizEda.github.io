@@ -3,7 +3,7 @@ class Skills extends Component {
   render() {
     return (
       <div className="condiv">
-        <h2 className="subtopic"> SKILLS & INTERESTS</h2>
+        <h2 className="subtopic">WHAT I'M LEARNING</h2>
         <div id="services">
           <div class="card">
             {" "}
@@ -38,7 +38,7 @@ class Skills extends Component {
               </h4>
               <p>PWA/Native Apps</p>
               <p>Responsive Web Design</p>
-              <p> </p>
+              <p>GraphQL, AngularJS, and more</p>
             </div>
           </div>
         </div>

@@ -1,7 +1,7 @@
 import React from "react";
 import "./App.css";
 import { HashRouter as Router } from "react-router-dom";
-import Navbar from "./components/Navbar";
+// import Navbar from "./components/Navbar";
 import Home from "./contents/Home";
 import About from "./contents/About";
 import TechStack from "./contents/TechStack";
@@ -13,7 +13,7 @@ import Footer from "./components/Footer";
 function App() {
   return (
     <Router>
-      <Navbar />
+      {/* <Navbar /> */}
       <Home />
       <About />
       <TechStack />

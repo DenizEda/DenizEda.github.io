@@ -13,11 +13,14 @@ class About extends Component {
           <h2>ABOUT</h2>
           <p>
             I'm a full stack web developer and software engineer based out of
-            New York City. After working multiple years in operations -
-            primarily in the non-profit sectory - I decided to take a leap of
-            faith to pursue a career in software engineering.
+            New York City. After working multiple years in operations and
+            project management in the non-profit sector, I decided to take a
+            leap of faith to pursue a career in software engineering.
           </p>
-          <p>And it was the best decision I've ever made!</p>
+          <p>
+            Developing the hard skills necessary to build and create products
+            was the best decision I've ever made.
+          </p>
           <p>
             After completing <b>553 hours</b> of coursework at the Grace Hopper
             Program(a web development 17 week immersive program), I'm a

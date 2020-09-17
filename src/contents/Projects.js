@@ -44,7 +44,6 @@ class Projects extends Component {
     return (
       <div className="condiv" id="projects">
         <h2 className="subtopic">PROJECTS</h2>
-        {/* <div id="projects" className="projectsSection"> */}
         <div>
           <div className="projectsContainer">
             <Project

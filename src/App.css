@@ -320,12 +320,6 @@ h5 {
   padding: 0 1em;
 }
 
-@media only screen and (min-width: 850px) {
-  .projectsSection {
-    padding: 0 10em;
-  }
-}
-
 .projectsContainer {
   display: flex;
   flex-wrap: wrap;
@@ -577,7 +571,7 @@ h5 {
     height: 80%;
   }
   .left-half p {
-    font-size: 12px;
+    font-size: 14px;
     font-style: italic;
     width: 100%;
     text-align: center;
@@ -589,7 +583,7 @@ h5 {
     width: 100%;
     padding: 5px;
     text-align: start;
-    font-size: 12px;
+    font-size: 14px;
   }
   .condiv {
     padding: 50px;
@@ -608,5 +602,28 @@ h5 {
   .card {
     height: 100%;
     width: 100%;
+  }
+  .description {
+    width: 100%;
+  }
+  .mockupAndLinks {
+    width: 100%;
+  }
+  .project {
+    flex-direction: column;
+    width: 100%;
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+  .excerpt {
+    font-size: 14px;
+  }
+  #contact {
+    width: 100%;
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+  #contact p {
+    font-size: 14px;
   }
 }

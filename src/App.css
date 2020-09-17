@@ -11,8 +11,8 @@ html {
   /* height: 100%; */
 }
 * {
-  margin: 0;
-  padding: 0;
+  margin: 0px;
+  padding: 0px;
   box-sizing: border-box;
   font-family: "Poppins", sans-serif;
   color: #374341;
@@ -58,7 +58,6 @@ nav {
   z-index: 1;
 }
 .logo {
-  text-transform: uppercase;
   /* letter-spacing: 2px; */
   font-size: 22px;
   font-weight: 600;
@@ -686,27 +685,33 @@ h5 {
   body {
     overflow-x: hidden;
   }
-  nav {
+  /* nav {
     padding-left: 20px;
     padding-right: 20px;
     z-index: 1;
+    width: 100%;
     overflow: hidden;
-  }
+  } */
+  /* nav {
+    overflow: hidden;
+    width: 100%;
+  } */
   .logo {
     margin-right: auto;
   }
   .nav-links {
     position: absolute;
     right: 0px;
-    height: 100vh;
+    height: 92vh;
+    /* width: 100vh; */
     top: 8vh;
     background-color: #e29578;
     display: flex;
     flex-direction: column;
     align-items: center;
-    width: 65%;
+    width: 50%;
     padding-bottom: 10vh;
-    opacity: inherit;
+    /* opacity: inherit; */
     transform: translateX(100%);
     transition: transform 0.5s ease-in;
     z-index: 1;

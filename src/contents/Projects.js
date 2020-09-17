@@ -48,7 +48,7 @@ class Projects extends Component {
           <div className="projectsContainer">
             <Project
               projectname="MindPop"
-              mockup={require("../img/mindpop.png")}
+              mockup={require("../img/mindpop.gif")}
               excerpt="An interactive web application for educators to host pop quizzes for students in remote environments. Mindpop makes data on grades and levels of engagement accessible for educators through data visualization."
               siteUrl="http://mymindpop.herokuapp.com"
               githubUrl="https://github.com/TeamPopQuiz/PopRepo"
@@ -57,7 +57,7 @@ class Projects extends Component {
             <hr className="projectHR" />
             <Project
               projectname="Pandemic Essentials"
-              mockup={require("../img/pandemicessentials.png")}
+              mockup={require("../img/pandemicessentials.gif")}
               excerpt="A mock e-commerce site that sells essential items for consumers during a pandemic.  Signup is integrated with Oauth and Google OAuth.  Styling is built with Bootstrap."
               siteUrl="http://pandemic-essentials.herokuapp.com/"
               githubUrl="https://github.com/2004-GraceShopperProject-NY/GraceShopper"

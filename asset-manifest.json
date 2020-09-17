@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.909e8ad0.chunk.css",
-    "main.js": "/static/js/main.616cf921.chunk.js",
-    "main.js.map": "/static/js/main.616cf921.chunk.js.map",
+    "main.css": "/static/css/main.1dac6eee.chunk.css",
+    "main.js": "/static/js/main.00a8f858.chunk.js",
+    "main.js.map": "/static/js/main.00a8f858.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.a77d6087.js",
     "runtime-main.js.map": "/static/js/runtime-main.a77d6087.js.map",
     "static/js/2.abb85569.chunk.js": "/static/js/2.abb85569.chunk.js",
     "static/js/2.abb85569.chunk.js.map": "/static/js/2.abb85569.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.206584750028a7117ca077ea53e052e6.js": "/precache-manifest.206584750028a7117ca077ea53e052e6.js",
+    "precache-manifest.2cfde81e5d0000443978b463659a0870.js": "/precache-manifest.2cfde81e5d0000443978b463659a0870.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.909e8ad0.chunk.css.map": "/static/css/main.909e8ad0.chunk.css.map",
+    "static/css/main.1dac6eee.chunk.css.map": "/static/css/main.1dac6eee.chunk.css.map",
     "static/js/2.abb85569.chunk.js.LICENSE.txt": "/static/js/2.abb85569.chunk.js.LICENSE.txt",
     "static/media/bootstraplogo.png": "/static/media/bootstraplogo.e372779e.png",
     "static/media/chai.png": "/static/media/chai.f6108efd.png",
     "static/media/gameoflife.gif": "/static/media/gameoflife.5e218e7a.gif",
     "static/media/jasmine.png": "/static/media/jasmine.8316e471.png",
-    "static/media/mindpop.png": "/static/media/mindpop.1980bf31.png",
+    "static/media/mindpop.gif": "/static/media/mindpop.34e4fc13.gif",
     "static/media/nodelogo.png": "/static/media/nodelogo.d42672d4.png",
     "static/media/oauth.png": "/static/media/oauth.626e00da.png",
-    "static/media/pandemicessentials.png": "/static/media/pandemicessentials.d3704b5f.png",
+    "static/media/pandemicessentials.gif": "/static/media/pandemicessentials.06ab3616.gif",
     "static/media/postico.png": "/static/media/postico.08b791da.png",
     "static/media/profpic.png": "/static/media/profpic.856bf877.png",
     "static/media/sequelize.png": "/static/media/sequelize.fbaa87b8.png",
@@ -29,7 +29,7 @@
   "entrypoints": [
     "static/js/runtime-main.a77d6087.js",
     "static/js/2.abb85569.chunk.js",
-    "static/css/main.909e8ad0.chunk.css",
-    "static/js/main.616cf921.chunk.js"
+    "static/css/main.1dac6eee.chunk.css",
+    "static/js/main.00a8f858.chunk.js"
   ]
 }

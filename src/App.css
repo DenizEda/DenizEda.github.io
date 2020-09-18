@@ -8,7 +8,6 @@
 }
 html {
   scroll-behavior: smooth;
-  /* height: 100%; */
 }
 * {
   margin: 0px;
@@ -16,7 +15,6 @@ html {
   box-sizing: border-box;
   font-family: "Poppins", sans-serif;
   color: #374341;
-  /* width: 100%; */
 }
 /* body */
 body {
@@ -27,7 +25,6 @@ body {
 
 .App {
   margin-top: 100px;
-  /* min-height: 100vh; */
   height: 100%;
   display: block;
   position: relative;
@@ -56,7 +53,6 @@ nav {
   width: 100%;
 }
 .logo {
-  /* letter-spacing: 2px; */
   font-size: 22px;
   font-weight: 600;
   font-size: larger;
@@ -65,14 +61,13 @@ nav {
 
 .nav-links {
   display: flex;
-  width: 35%;
+  width: 40%;
   justify-content: space-around;
   margin-left: auto;
 }
 
 .nav-links a {
   text-decoration: none;
-  /* color: rgb(226, 226, 226); */
   font-size: 16px;
 }
 .nav-links li {
@@ -94,59 +89,7 @@ nav {
   margin: 5px;
   transition: all 0.3s ease;
 }
-/* @media only screen and (min-width: 769px) {
-  #nav {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    height: auto;
-    background-color: #e29578;
-    position: fixed;
-    width: 100%;
-    z-index: 10000;
-    font-size: large;
-    padding-left: 30px;
-    padding-right: 20px;
-    padding-top: 10px;
-    padding-bottom: 5px;
-    top: 0px;
-    display: inline-block;
-  }
 
-  .sticky {
-    position: fixed;
-    top: 0;
-    width: 100%;
-  }
-
-  ul {
-    list-style: none;
-    text-align: right;
-    padding-right: 10px;
-    text-decoration: none;
-  }
-  li:first-child {
-    float: left;
-    font-weight: 600;
-    font-size: larger;
-  }
-  li {
-    display: inline-block;
-    padding-right: 10px;
-    text-decoration: none;
-  }
-  a:link {
-    text-decoration: none;
-    color: #374341;
-  }
-
-  a:hover {
-    text-decoration: underline;
-  }
-  a:active {
-    font-weight: bolder;
-  } 
-}*/
 footer {
   display: flex;
   flex-direction: row;
@@ -494,7 +437,6 @@ h5 {
 }
 
 .linksContainer a:hover {
-  /* font-family: "Source Sans Pro", sans-serif; */
   text-decoration: none;
   color: #374341;
   text-shadow: 0 1px 1px #374341;
@@ -680,15 +622,6 @@ h5 {
     font-size: 14px;
   }
   /* mobile nav */
-
-  /* nav {
-    padding-left: 20px;
-    padding-right: 20px;
-    z-index: 1;
-    width: 100%;
-    overflow: hidden;
-  } */
-
   .logo {
     margin-right: auto;
   }
@@ -700,7 +633,6 @@ h5 {
     position: absolute;
     right: 0px;
     height: 92vh;
-    /* width: 100vh; */
     top: 8vh;
     background-color: #e29578;
     display: flex;
@@ -708,7 +640,6 @@ h5 {
     align-items: center;
     width: 0%;
     padding-bottom: 10vh;
-    /* opacity: inherit; */
     transform: translateX(100%);
     transition: transform 0.5s ease-in;
     z-index: 1;

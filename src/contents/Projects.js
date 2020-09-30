@@ -56,6 +56,14 @@ class Projects extends Component {
             />
             <hr className="projectHR" />
             <Project
+              projectname="PlantScope"
+              mockup={require("../img/plantscope.gif")}
+              excerpt="An image classifier that determines a type of plant based on image"
+              githubUrl="https://github.com/DenizEda/PlantScope"
+              techStack="TensorflowJS | MobileNet | HTML | CSS |  React "
+            />
+            <hr className="projectHR" />
+            <Project
               projectname="Pandemic Essentials"
               mockup={require("../img/pandemicessentials.gif")}
               excerpt="A mock e-commerce site that sells essential items for consumers during a pandemic.  Signup is integrated with Oauth and Google OAuth.  Styling is built with Bootstrap."

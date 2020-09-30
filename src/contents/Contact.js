@@ -35,7 +35,7 @@ class Contact extends Component {
             <span class="tooltiptext">Email</span>
           </div>
           <div class="tech tooltip">
-            <a href="https://drive.google.com/file/d/1fybypZnfYRkB8zUG_-y7wqP8c-uV438G/view?usp=sharing">
+            <a href="https://drive.google.com/file/d/1dLY-MrXh-TQ9ve8f82j__lUDph-LAIon/view?usp=sharing">
               <i class="fas fa-file-alt" alt="Resume"></i>
             </a>
             <span class="tooltiptext">Resume</span>

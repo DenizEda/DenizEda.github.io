@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.8ff1f2eb.chunk.css",
-    "main.js": "/static/js/main.00a8f858.chunk.js",
-    "main.js.map": "/static/js/main.00a8f858.chunk.js.map",
+    "main.js": "/static/js/main.4521a0b7.chunk.js",
+    "main.js.map": "/static/js/main.4521a0b7.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.a77d6087.js",
     "runtime-main.js.map": "/static/js/runtime-main.a77d6087.js.map",
-    "static/js/2.abb85569.chunk.js": "/static/js/2.abb85569.chunk.js",
-    "static/js/2.abb85569.chunk.js.map": "/static/js/2.abb85569.chunk.js.map",
+    "static/js/2.b4936e1d.chunk.js": "/static/js/2.b4936e1d.chunk.js",
+    "static/js/2.b4936e1d.chunk.js.map": "/static/js/2.b4936e1d.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.9567fb7d5ce9ec93d83b4ef4f04ca803.js": "/precache-manifest.9567fb7d5ce9ec93d83b4ef4f04ca803.js",
+    "precache-manifest.5f24e05035c40eee3b7a712da013d2dd.js": "/precache-manifest.5f24e05035c40eee3b7a712da013d2dd.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.8ff1f2eb.chunk.css.map": "/static/css/main.8ff1f2eb.chunk.css.map",
-    "static/js/2.abb85569.chunk.js.LICENSE.txt": "/static/js/2.abb85569.chunk.js.LICENSE.txt",
+    "static/js/2.b4936e1d.chunk.js.LICENSE.txt": "/static/js/2.b4936e1d.chunk.js.LICENSE.txt",
     "static/media/bootstraplogo.png": "/static/media/bootstraplogo.e372779e.png",
     "static/media/chai.png": "/static/media/chai.f6108efd.png",
     "static/media/gameoflife.gif": "/static/media/gameoflife.5e218e7a.gif",
@@ -20,6 +20,7 @@
     "static/media/nodelogo.png": "/static/media/nodelogo.d42672d4.png",
     "static/media/oauth.png": "/static/media/oauth.626e00da.png",
     "static/media/pandemicessentials.gif": "/static/media/pandemicessentials.06ab3616.gif",
+    "static/media/plantscope.gif": "/static/media/plantscope.81cb71e3.gif",
     "static/media/postico.png": "/static/media/postico.08b791da.png",
     "static/media/profpic.png": "/static/media/profpic.856bf877.png",
     "static/media/sequelize.png": "/static/media/sequelize.fbaa87b8.png",
@@ -28,8 +29,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.a77d6087.js",
-    "static/js/2.abb85569.chunk.js",
+    "static/js/2.b4936e1d.chunk.js",
     "static/css/main.8ff1f2eb.chunk.css",
-    "static/js/main.00a8f858.chunk.js"
+    "static/js/main.4521a0b7.chunk.js"
   ]
 }
